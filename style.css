@@ -30,6 +30,7 @@ body {
 }
 
 .hero h1,
+.hero h2,
 .hero h4,
 .hero p {
   text-shadow: var(--shadow);
@@ -38,8 +39,12 @@ body {
 .hero h1 {
   font-family: 'Sacramento', cursive;
   font-size: 6rem;
+  
 }
-
+.hero h2 {
+  font-family: 'Barbie Wedding', cursive;
+  font-size: 4rem;
+}
 .hero h4 {
   font-size: 1.6rem;
 }
